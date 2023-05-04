@@ -6,7 +6,9 @@
 
 body {
     background-color: #ebf2ff !important;
-
+    background-image: url(https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .add_new_btn_mobile_only {
